@@ -17,6 +17,9 @@
 - Git;
 - GitHub.
 
+## Ссылка на опубликованный проект
+GitHub Pages: https://zchuby.github.io/frontend-i-bekend/pz-1/
+
 ## Автор
 ФИО: Чубий Зоя Витальевна
 Группа: —
